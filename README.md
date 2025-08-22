@@ -35,13 +35,16 @@ The bot can read a document, store it in a vector database, and then answer natu
 
 ## 📝 Example Interaction
 Ask a question (or 'exit'): give three important points from document
+
 Answer: Exploratory analysis, handling missing data, and standardizing formats.
 
 Ask a question (or 'exit'): are you mad?
+
 Answer: No, I'm not mad.
 
 Ask a question (or 'exit'): exit
-Thanks for using my QA bot! Bye 👋
+
+Answer: Thanks for using my QA bot! Bye 👋
 
 ---
 
