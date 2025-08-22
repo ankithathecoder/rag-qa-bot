@@ -42,6 +42,7 @@ Answer: No, I'm not mad.
 
 Ask a question (or 'exit'): exit
 Thanks for using my QA bot! Bye 👋
+
 ---
 
 ## 📂 Project Files
